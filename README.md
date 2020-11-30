@@ -42,7 +42,7 @@ O projeto consiste em manipulações de matrizes tridimensionais possuem dimens�
 
 ### Documentação do projeto 
  
- [Documentação](https://pablosanttana.github.io/Projeto-Escultor-3D-2.0/html/class_put_ellipsoid.html)
+ [Documentação](https://pablosanttana.github.io/Projeto-Escultor-3D-2.0/html/annotated.html)
  
  
 ### Pré-requisitos
@@ -111,5 +111,5 @@ $ git clone <https://github.com/PabloSanttana/Projeto-Escultor-3D-2.0.git>
  
  ![exemplo2](https://github.com/PabloSanttana/Projeto-Escultor-3D-2.0/blob/master/images/putellipsoid.png)
 
-  mais exemplos na [Documentação](https://pablosanttana.github.io/Projeto-Escultor-3D-2.0/html/class_put_ellipsoid.html)
+  mais exemplos na [Documentação](https://pablosanttana.github.io/Projeto-Escultor-3D-2.0/html/annotated.html)
 
